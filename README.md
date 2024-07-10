@@ -1,12 +1,21 @@
 1 Check User ID:
+
 2 Username and Password Initialization:
+
 3 Lesson Plan Inquiry:
+
 4 Level Selection and Reasoning:
+
 5 Study Plan Request Transmission:
+
 6 Supervisor's Requirements:
+
 7 Study Plan Preparation:
+
 8 Assignment Scheduling:
+
 9 Notifications for Lesson Plan Review:
+
 10 Assignment and Progress Tracking:
 
 ================================DATA FLOW inst=========================================
