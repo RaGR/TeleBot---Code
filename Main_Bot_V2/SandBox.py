@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Create bot instance
-BOT_TOKEN = '7220090779:AAE4fI6iseB8a7YBPQ0lIFUZklfhZ3PVT3Y'
+BOT_TOKEN = 'TOKEN IS HIIDEN BY THE AUTHOR !!!'
 bot = telebot.TeleBot ( BOT_TOKEN )
 
 # Define courses
